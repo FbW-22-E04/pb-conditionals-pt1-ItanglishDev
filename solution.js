@@ -94,3 +94,10 @@ console.log("EXERCISE 7------------------");
 if (int4 === 15 || int5 === 15 || int4 + int5 === 15) {
   console.log("true");
 } else console.log("false");
+
+//EXERCISE 8
+console.log("-----------------EXERCISE 8");
+
+if (int4 % 7 === 0 || int4 % 11 === 0 || (int5 % 7 === 0 && int5 % 11 === 0)) {
+  console.log("true");
+} else console.log("false");
