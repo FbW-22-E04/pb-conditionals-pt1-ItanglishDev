@@ -77,3 +77,13 @@ console.log("EXERCISE 5 --------------------");
 if (int1 + int2 >= 50 && int1 + int2 <= 80) {
   console.log("65");
 } else console.log("80");
+
+//EXERCISE 6
+console.log("------------------------EXERCISE 6");
+
+const int4 = 91;
+const int5 = 1;
+
+if (int4 + int5 === 8 || int4 - int5 === 8) {
+  console.log("true");
+} else console.log("false");
