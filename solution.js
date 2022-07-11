@@ -110,3 +110,12 @@ if (int4 === int5) {
 } else {
   console.log(int4 + int5);
 }
+
+// EXERCISE 10
+console.log("---------------EXERCISE 10");
+
+if (int5 > 19) {
+  console.log((int5 - 19) * 2);
+} else {
+  console.log(int5 - 19);
+}
