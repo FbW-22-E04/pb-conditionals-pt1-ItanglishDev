@@ -101,3 +101,12 @@ console.log("-----------------EXERCISE 8");
 if (int4 % 7 === 0 || int4 % 11 === 0 || (int5 % 7 === 0 && int5 % 11 === 0)) {
   console.log("true");
 } else console.log("false");
+
+//EXERCISE 9
+console.log("EXERCISE 9-----------------------------");
+
+if (int4 === int5) {
+  console.log((int4 + int5) * 3);
+} else {
+  console.log(int4 + int5);
+}
